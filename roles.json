@@ -1,0 +1,22 @@
+{
+  "roles": [
+    {
+      "displayName": "Faculty",
+      "id": "faculty",
+      "policies": ["com.company.faculty.policy"],
+      "description": "Configuration for faculty members"
+    },
+    {
+      "displayName": "Student",
+      "id": "student",
+      "policies": ["com.company.student.policy"],
+      "description": "Configuration for students"
+    },
+    {
+      "displayName": "Admin",
+      "id": "admin",
+      "policies": ["com.company.admin.policy"],
+      "description": "Configuration for IT Administrators"
+    }
+  ]
+}
